@@ -1,0 +1,10 @@
+C:\Users\Lucas\source\repos\BDProjeto\BDProjeto.Dominio\bin\Debug\BDProjeto.Dominio.dll
+C:\Users\Lucas\source\repos\BDProjeto\BDProjeto.Dominio\bin\Debug\BDProjeto.Dominio.pdb
+C:\Users\Lucas\source\repos\BDProjeto\BDProjeto.Dominio\obj\Debug\BDProjeto.Dominio.dll
+C:\Users\Lucas\source\repos\BDProjeto\BDProjeto.Dominio\obj\Debug\BDProjeto.Dominio.pdb
+C:\Users\Lucas\source\repos\BDProjeto\BDProjeto.Dominio\obj\Debug\BDProjeto.Dominio.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\ProjetoAspNet-2\BDProjeto.Dominio\bin\Debug\BDProjeto.Dominio.dll
+C:\Users\Lucas\source\repos\ProjetoAspNet-2\BDProjeto.Dominio\bin\Debug\BDProjeto.Dominio.pdb
+C:\Users\Lucas\source\repos\ProjetoAspNet-2\BDProjeto.Dominio\obj\Debug\BDProjeto.Dominio.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\ProjetoAspNet-2\BDProjeto.Dominio\obj\Debug\BDProjeto.Dominio.dll
+C:\Users\Lucas\source\repos\ProjetoAspNet-2\BDProjeto.Dominio\obj\Debug\BDProjeto.Dominio.pdb

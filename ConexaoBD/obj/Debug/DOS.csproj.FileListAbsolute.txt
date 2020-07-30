@@ -1,0 +1,13 @@
+C:\Users\Lucas\source\repos\BDProjeto\ConexaoBD\bin\Debug\ConexaoBD.exe.config
+C:\Users\Lucas\source\repos\BDProjeto\ConexaoBD\bin\Debug\ConexaoBD.exe
+C:\Users\Lucas\source\repos\BDProjeto\ConexaoBD\bin\Debug\ConexaoBD.pdb
+C:\Users\Lucas\source\repos\BDProjeto\ConexaoBD\bin\Debug\BDProjeto.Aplicacao.dll
+C:\Users\Lucas\source\repos\BDProjeto\ConexaoBD\bin\Debug\BDProjeto.Dominio.dll
+C:\Users\Lucas\source\repos\BDProjeto\ConexaoBD\bin\Debug\BDProjeto.Repositorio.dll
+C:\Users\Lucas\source\repos\BDProjeto\ConexaoBD\bin\Debug\BDProjeto.Aplicacao.pdb
+C:\Users\Lucas\source\repos\BDProjeto\ConexaoBD\bin\Debug\BDProjeto.Dominio.pdb
+C:\Users\Lucas\source\repos\BDProjeto\ConexaoBD\bin\Debug\BDProjeto.Repositorio.pdb
+C:\Users\Lucas\source\repos\BDProjeto\ConexaoBD\obj\Debug\DOS.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\BDProjeto\ConexaoBD\obj\Debug\DOS.csproj.CopyComplete
+C:\Users\Lucas\source\repos\BDProjeto\ConexaoBD\obj\Debug\ConexaoBD.exe
+C:\Users\Lucas\source\repos\BDProjeto\ConexaoBD\obj\Debug\ConexaoBD.pdb

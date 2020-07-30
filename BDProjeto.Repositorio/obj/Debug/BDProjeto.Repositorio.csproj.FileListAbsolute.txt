@@ -1,0 +1,5 @@
+C:\Users\Lucas\source\repos\BDProjeto\BDProjeto.Repositorio\bin\Debug\BDProjeto.Repositorio.dll
+C:\Users\Lucas\source\repos\BDProjeto\BDProjeto.Repositorio\bin\Debug\BDProjeto.Repositorio.pdb
+C:\Users\Lucas\source\repos\BDProjeto\BDProjeto.Repositorio\obj\Debug\BDProjeto.Repositorio.dll
+C:\Users\Lucas\source\repos\BDProjeto\BDProjeto.Repositorio\obj\Debug\BDProjeto.Repositorio.pdb
+C:\Users\Lucas\source\repos\BDProjeto\BDProjeto.Repositorio\obj\Debug\BDProjeto.Repositorio.csprojAssemblyReference.cache
